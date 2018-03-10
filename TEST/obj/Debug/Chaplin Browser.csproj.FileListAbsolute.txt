@@ -19,3 +19,12 @@ E:\Algomi\Development\Chaplin Browser\TEST\obj\Debug\TEST.Properties.Resources.r
 E:\Algomi\Development\Chaplin Browser\TEST\obj\Debug\Chaplin Browser.csproj.GenerateResource.Cache
 E:\Algomi\Development\Chaplin Browser\TEST\obj\Debug\TEST.exe
 E:\Algomi\Development\Chaplin Browser\TEST\obj\Debug\TEST.pdb
+C:\GitHub\ChaplinBrowserCSharp\TEST\bin\Debug\TEST.exe.config
+C:\GitHub\ChaplinBrowserCSharp\TEST\bin\Debug\TEST.exe
+C:\GitHub\ChaplinBrowserCSharp\TEST\bin\Debug\TEST.pdb
+C:\GitHub\ChaplinBrowserCSharp\TEST\obj\Debug\Chaplin Browser.csprojResolveAssemblyReference.cache
+C:\GitHub\ChaplinBrowserCSharp\TEST\obj\Debug\TEST.Chaplin_Explorer.resources
+C:\GitHub\ChaplinBrowserCSharp\TEST\obj\Debug\TEST.Properties.Resources.resources
+C:\GitHub\ChaplinBrowserCSharp\TEST\obj\Debug\Chaplin Browser.csproj.GenerateResource.Cache
+C:\GitHub\ChaplinBrowserCSharp\TEST\obj\Debug\TEST.exe
+C:\GitHub\ChaplinBrowserCSharp\TEST\obj\Debug\TEST.pdb
