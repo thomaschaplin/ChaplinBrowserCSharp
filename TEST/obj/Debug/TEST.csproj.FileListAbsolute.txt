@@ -1,0 +1,9 @@
+c:\users\thomaschaplin\documents\visual studio 2015\Projects\TEST\TEST\bin\Debug\TEST.exe.config
+C:\Users\thomaschaplin\documents\visual studio 2015\Projects\TEST\TEST\bin\Debug\TEST.exe
+C:\Users\thomaschaplin\documents\visual studio 2015\Projects\TEST\TEST\bin\Debug\TEST.pdb
+C:\Users\thomaschaplin\documents\visual studio 2015\Projects\TEST\TEST\obj\Debug\TEST.csprojResolveAssemblyReference.cache
+C:\Users\thomaschaplin\documents\visual studio 2015\Projects\TEST\TEST\obj\Debug\TEST.Properties.Resources.resources
+C:\Users\thomaschaplin\documents\visual studio 2015\Projects\TEST\TEST\obj\Debug\TEST.csproj.GenerateResource.Cache
+C:\Users\thomaschaplin\documents\visual studio 2015\Projects\TEST\TEST\obj\Debug\TEST.exe
+C:\Users\thomaschaplin\documents\visual studio 2015\Projects\TEST\TEST\obj\Debug\TEST.pdb
+C:\Users\thomaschaplin\documents\visual studio 2015\Projects\TEST\TEST\obj\Debug\TEST.Chaplin_Explorer.resources

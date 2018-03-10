@@ -1,0 +1,21 @@
+C:\Users\thomaschaplin\Documents\Visual Studio 2015\Projects\TEST\TEST\bin\Debug\TEST.exe.config
+C:\Users\thomaschaplin\Documents\Visual Studio 2015\Projects\TEST\TEST\bin\Debug\TEST.exe
+C:\Users\thomaschaplin\Documents\Visual Studio 2015\Projects\TEST\TEST\bin\Debug\TEST.pdb
+C:\Users\thomaschaplin\Documents\Visual Studio 2015\Projects\TEST\TEST\obj\Debug\Chaplin Browser.csprojResolveAssemblyReference.cache
+C:\Users\thomaschaplin\Documents\Visual Studio 2015\Projects\TEST\TEST\obj\Debug\TEST.Chaplin_Explorer.resources
+C:\Users\thomaschaplin\Documents\Visual Studio 2015\Projects\TEST\TEST\obj\Debug\TEST.Properties.Resources.resources
+C:\Users\thomaschaplin\Documents\Visual Studio 2015\Projects\TEST\TEST\obj\Debug\Chaplin Browser.csproj.GenerateResource.Cache
+C:\Users\thomaschaplin\Documents\Visual Studio 2015\Projects\TEST\TEST\obj\Debug\TEST.exe
+C:\Users\thomaschaplin\Documents\Visual Studio 2015\Projects\TEST\TEST\obj\Debug\TEST.pdb
+C:\Users\thomaschaplin\Documents\Visual Studio 2015\Projects\Chaplin Browser\TEST\bin\Debug\TEST.exe.config
+C:\Users\thomaschaplin\Documents\Visual Studio 2015\Projects\Chaplin Browser\TEST\obj\Debug\TEST.exe
+C:\Users\thomaschaplin\Documents\Visual Studio 2015\Projects\Chaplin Browser\TEST\obj\Debug\TEST.pdb
+E:\Algomi\Development\Chaplin Browser\TEST\bin\Debug\TEST.exe.config
+E:\Algomi\Development\Chaplin Browser\TEST\bin\Debug\TEST.exe
+E:\Algomi\Development\Chaplin Browser\TEST\bin\Debug\TEST.pdb
+E:\Algomi\Development\Chaplin Browser\TEST\obj\Debug\Chaplin Browser.csprojResolveAssemblyReference.cache
+E:\Algomi\Development\Chaplin Browser\TEST\obj\Debug\TEST.Chaplin_Explorer.resources
+E:\Algomi\Development\Chaplin Browser\TEST\obj\Debug\TEST.Properties.Resources.resources
+E:\Algomi\Development\Chaplin Browser\TEST\obj\Debug\Chaplin Browser.csproj.GenerateResource.Cache
+E:\Algomi\Development\Chaplin Browser\TEST\obj\Debug\TEST.exe
+E:\Algomi\Development\Chaplin Browser\TEST\obj\Debug\TEST.pdb
